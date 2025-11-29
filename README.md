@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There! I'm Sigit Suharyadi 👋
 
 <!--
 **sigitsuharyadi88/sigitsuharyadi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Carro Indonesia** and have experience working 8 years at **Astra Group**
+- 🏫 I’m currently learning **Data Science on Rakamin Academy and Pacmann**
+![Data](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZmcXE5bzVxcjJ1NjhkdDk2ZGg5NTFwMnp0ejdqeHJmd2ZtODR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif)
+
+
+
