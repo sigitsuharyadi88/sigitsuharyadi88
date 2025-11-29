@@ -19,7 +19,25 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Carro Indonesia** and have experience working 8 years at **Astra Group**
 - 🏫 I’m currently learning **Data Science on Rakamin Academy and Pacmann**
+
+
+
 ![Data](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZmcXE5bzVxcjJ1NjhkdDk2ZGg5NTFwMnp0ejdqeHJmd2ZtODR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif)
+
+
+#### Skills
+
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whitehttps://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+
+
+#### Connect With Me
+![https://www.linkedin.com/in/sigit-suharyadi-692b35165/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 
 
